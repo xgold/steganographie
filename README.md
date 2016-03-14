@@ -1,4 +1,4 @@
-# steganographie : l'Art de la dissimulation
+# Steganographie : l'Art de la dissimulation
 
 La stéganographie a pour but de dissimuler un message dans un autre à ne pas confondre avec la cryptographie. Vous pourrez retrouver sur Wikipédia (https://fr.wikipedia.org/wiki/St%C3%A9ganographie) de plus ample informations dessus.
 
